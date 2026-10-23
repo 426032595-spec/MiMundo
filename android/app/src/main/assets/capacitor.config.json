@@ -1,0 +1,9 @@
+{
+	"appId": "mx.boveda.apuntes",
+	"appName": "Bóveda de apuntes",
+	"webDir": "www",
+	"backgroundColor": "#0a0612",
+	"android": {
+		"allowMixedContent": false
+	}
+}

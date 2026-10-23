@@ -1,0 +1,5 @@
+package mx.boveda.apuntes;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}
